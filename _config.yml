@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ashley (Ash) Lewis"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Ashley (Ash) Lewis"
+description              : &description "PhD Candidate in Computational Linguistics at The Ohio State University"
+url                      : https://ashleylew.github.io/academicwebsite # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ashleylew.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "headshot_2025.png"
-  name             : "Your Sidebar Name"
+  name             : "Ash Lewis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Candidate in Computational Linguistics at The Ohio State University"
+  location         : "Columbus, Ohio"
+  employer         : "The Ohio State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lewis.2799@osu.edu" 
 
   # Academic websites
   osu_website      : "https://linguistics.osu.edu/people/lewis.2799"
